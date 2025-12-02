@@ -1,5 +1,13 @@
 # 🚀 Vertex AI RAG Agent with ADK
 
+## ❓ Sample Questions for the F1 RAG Agent
+
+Here are some example prompts you can use to test and demonstrate the Formula 1 RAG Agent's retrieval capabilities:
+
+- **"How did Ayrton Senna perform in the 1991 Monaco Grand Prix?"**
+- **"Which constructor dominated the 2004 Formula 1 season and why?"**
+- **"Give me a summary of Lewis Hamilton’s 2018 season, including key races he won."**
+
 ## 📘 What I Did in This Project
 
 This project is a fully functional Retrieval Augmented Generation (RAG) agent built using **Google Cloud Vertex AI** and the **Agent Development Kit (ADK)**.  
@@ -103,10 +111,3 @@ gcloud services enable aiplatform.googleapis.com
 ### 🗑️ Delete Corpus — `delete_corpus`
 - Permanently deletes a corpus  
 
-## ❓ Sample Questions for the F1 RAG Agent
-
-Here are some example prompts you can use to test and demonstrate the Formula 1 RAG Agent's retrieval capabilities:
-
-- **"How did Ayrton Senna perform in the 1991 Monaco Grand Prix?"**
-- **"Which constructor dominated the 2004 Formula 1 season and why?"**
-- **"Give me a summary of Lewis Hamilton’s 2018 season, including key races he won."**
